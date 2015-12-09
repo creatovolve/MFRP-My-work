@@ -63,6 +63,8 @@ public class RegistrationServlet extends HttpServlet {
 		String zip=(String) request.getAttribute("zip");
 		String city=(String) request.getAttribute("city");
 	
+		
+		
 	}
 
 }
